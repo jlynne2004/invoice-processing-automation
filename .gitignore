@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Invoice project specific
+invoice_log.xlsx
+FinalInvoices/
+InvoicesToProcess/
+client_contacts.csv
