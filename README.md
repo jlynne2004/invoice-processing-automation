@@ -91,4 +91,5 @@ python send_invoices.py
 - Merged PDF saved to `/FinalInvoices/`
 - Email sent to the client (if not in dry run mode)
 - Action logged in `invoice_log.xlsx`
+- A sample log file (invoice_log_sample.xlsx) is included to demonstrate how the script records each action.
 
